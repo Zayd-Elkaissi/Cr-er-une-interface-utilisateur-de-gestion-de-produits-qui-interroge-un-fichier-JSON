@@ -1,0 +1,381 @@
+[
+  {
+    "id": 100,
+    "Name": "Mercedes-Benz E-Class",
+    "category": "Mercedes",
+    "price": "505 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 101,
+    "Name": "Mercedes-Benz_C-Class",
+    "category": "Mercedes",
+    "price": "495 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 102,
+    "Name": "Mercedes-Benz A-Class",
+    "category": "Mercedes",
+    "price": "403 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 103,
+    "Name": "Mercedes-Benz S-Class",
+    "category": "Mercedes",
+    "price": "1 338 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 104,
+    "Name": "Mercedes-Benz New GLA",
+    "category": "Mercedes",
+    "price": "425 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 105,
+    "Name": "Mercedes-Benz GLC",
+    "category": "Mercedes",
+    "price": "505 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 106,
+    "Name": "Mercedes-Benz GLC Cup",
+    "category": "Mercedes",
+    "price": "665 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 107,
+    "Name": "Mercedes-Benz GLE",
+    "category": "Mercedes",
+    "price": "710 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 108,
+    "Name": "Mercedes-Benz GLE Cup",
+    "category": "Mercedes",
+    "price": "910 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 109,
+    "Name": "Mercedes-Benz GLS",
+    "category": "Mercedes",
+    "price": "1 009 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 110,
+    "Name": "Mercedes-Benz Class G",
+    "category": "Mercedes",
+    "price": "505 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+
+  {
+    "id": 111,
+    "Name": "BMW Série 7",
+    "category": "BMW",
+    "price": "1.458.000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 112,
+    "Name": "Lexus LS",
+    "category": "Lexus",
+    "price": " 1.379.000  Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 113,
+    "Name": "Audi A8",
+    "category": "Audi",
+    "price": " 1.070.000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 114,
+    "Name": "BMW X2",
+    "category": "BMW",
+    "price": " 475.000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 115,
+    "Name": "BMW iX",
+    "category": "BMW",
+    "price": "505 000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 116,
+    "Name": "Audi e-Tron",
+    "category": "Audi",
+    "price": " 1.110.000  Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 117,
+    "Name": "Toyota Yaris Cross",
+    "category": "Toyota",
+    "price": " 270.900 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 118,
+    "Name": "Audi e-Tron Sportback",
+    "category": "Audi",
+    "price": " 1.170.000  Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 119,
+    "Name": "Skoda Octavia",
+    "category": "Skoda",
+    "price": " 347.900 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  },
+
+  {
+    "id": 120,
+    "Name": "Skoda Kodiaq",
+    "category": "Skoda",
+    "price": " 454.000 Dh",
+    "availablity": [
+      " Tanger",
+      " Asilah",
+      " Rabat",
+      " Casablanca",
+      " Marrakech"
+    ],
+    "provider": {
+      "company_name": "zato",
+      "address":"Max-Planck-Straße 7, 06796 Sandersdorf-Brehna, Allemagne"
+    }
+  }
+
+]
+
+
